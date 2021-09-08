@@ -1,0 +1,42 @@
+
+/**
+ * UI Modal - Dialog
+ */
+body.admin-bar .ui-widget-overlay {
+    top: 32px;
+}
+
+body .ui-widget-overlay {
+    opacity: .80;
+}
+
+body .ui-dialog .ui-dialog-titlebar-close span {
+    margin: -8px;
+}
+
+body .ui-widget-header {
+    border: 0px solid #aaaaaa;
+    border-bottom: 1px solid #aaaaaa;
+    background: #ffffff;
+    color: #222222;
+    font-weight: bold;
+}
+
+body .ui-dialog-titlebar.ui-corner-all {
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+
+body .ui-widget.ui-widget-content {
+    border: 4px solid #fbb72a;
+    padding: 0;
+}
+
+body .ui-button-text-only .ui-button-text {
+    padding: 0;
+}
+
+body .ui-dialog .ui-dialog-buttonpane {
+    padding: .3em .4em .3em .4em;
+}

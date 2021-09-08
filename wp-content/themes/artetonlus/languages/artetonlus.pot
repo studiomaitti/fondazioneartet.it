@@ -1,0 +1,508 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Artet onlus\n"
+"POT-Creation-Date: 2020-07-23 19:06+0200\n"
+"PO-Revision-Date: 2020-06-05 02:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: 404.php:17
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive-event.php:27
+msgid "Events"
+msgstr ""
+
+#: archive-event.php:58 archive.php:61 author.php:89 category-news.php:64
+#: home_.php:53 index.php:48 search.php:45
+msgid "Previous page"
+msgstr ""
+
+#: archive-event.php:59 archive.php:62 author.php:90 category-news.php:65
+#: home_.php:54 index.php:49 search.php:46
+msgid "Next page"
+msgstr ""
+
+#: archive-event.php:60 archive.php:63 author.php:91 category-news.php:66
+#: home_.php:55 image.php:63 index.php:50 search.php:47
+#: template-parts/content-page-attivita.php:97
+#: template-parts/content-single-event.php:79
+#: template-parts/content-single.php:84
+msgid "Page"
+msgstr ""
+
+#: archive-pubblicazioni.php:109 taxonomy-anno_pubblicazione.php:30
+#: taxonomy-anno_pubblicazione.php:102 taxonomy-anno_pubblicazione.php:106
+#: template-parts/content-pubblicazioni.php:26
+#: template-parts/content-pubblicazioni.php:59
+#: template-parts/content-pubblicazioni.php:63
+msgid "Publications"
+msgstr ""
+
+#: functions.php:101 header.php:189
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:102
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:103
+msgid "Top Left Small Menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:166
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:171
+msgid "Medium Gray"
+msgstr ""
+
+#: functions.php:176
+msgid "White"
+msgstr ""
+
+#: functions.php:181
+msgid "Bright Red"
+msgstr ""
+
+#: functions.php:186
+msgid "Orange"
+msgstr ""
+
+#: functions.php:255
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:257
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:267
+msgid "Registration newsletter"
+msgstr ""
+
+#: functions.php:279
+msgid "Under Category News Posts List"
+msgstr ""
+
+#: functions.php:386
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:387
+msgid "collapse child menu"
+msgstr ""
+
+#. translators: Yearly archive title. %s: Year.
+#: functions.php:628
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: functions.php:628
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. translators: Monthly archive title. %s: Month name and year.
+#: functions.php:631
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: functions.php:631
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#. translators: Daily archive title. %s: Date.
+#: functions.php:634
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: functions.php:634
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: functions.php:637
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: functions.php:639
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: functions.php:641
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: functions.php:643
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: functions.php:645
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: functions.php:647
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: functions.php:649
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: functions.php:651
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: functions.php:653
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#. translators: Taxonomy term archive title. 1: Taxonomy singular name, 2: Current taxonomy term.
+#: functions.php:663
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#. translators: %s: Post title.
+#: functions.php:710 image.php:89 template-parts/content-event.php:39
+#: template-parts/content-page-attivita.php:108
+#: template-parts/content-page.php:41 template-parts/content-search.php:28
+#: template-parts/content-search.php:43
+#: template-parts/content-single-event.php:94
+#: template-parts/content-single.php:98 template-parts/content-video.php:32
+#: template-parts/content.php:34 template/template-comitato-scientifico.php:109
+#: template/template-struttura-organizzativa.php:165
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: header.php:53
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:66
+msgid "Social Menu"
+msgstr ""
+
+#: header.php:93
+msgid "Newsletter subscription"
+msgstr ""
+
+#: header.php:97
+msgid "Menu"
+msgstr ""
+
+#: header.php:106
+msgid "Support us"
+msgstr ""
+
+#: header.php:185
+msgid "Close"
+msgstr ""
+
+#: image.php:25
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:26
+msgid "Next Image"
+msgstr ""
+
+#: image.php:59 template-parts/content-page-attivita.php:93
+#: template-parts/content-single-event.php:75
+#: template-parts/content-single.php:80
+msgid "Pages:"
+msgstr ""
+
+#: image.php:78
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: image.php:108
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:34 inc/artetonlus-theme-option.php:171
+msgid "Percentuale: Testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:49 inc/artetonlus-theme-option.php:184
+msgid "Percentuale: Testo Mobile"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:63 inc/artetonlus-theme-option.php:198
+msgid "Percentuale 1: numero"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:76 inc/artetonlus-theme-option.php:211
+msgid "Percentuale 1: testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:89 inc/artetonlus-theme-option.php:224
+msgid "Percentuale 2: numero"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:102 inc/artetonlus-theme-option.php:237
+msgid "Percentuale 2: testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:115 inc/artetonlus-theme-option.php:250
+msgid "Percentuale 3: numero"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:128 inc/artetonlus-theme-option.php:263
+msgid "Percentuale 3: testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:143 inc/artetonlus-theme-option.php:278
+msgid "Sostienici: Bonifico Bancario"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:156 inc/artetonlus-theme-option.php:291
+msgid "Sostienici: 5x1000"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:861
+msgid "Settings Saved"
+msgstr ""
+
+#: inc/artetonlus-widget.php:17
+msgid "Latest Post"
+msgstr ""
+
+#: inc/artetonlus-widget.php:88
+msgid "Title:"
+msgstr ""
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:57 inc/back-compat.php:77
+#, php-format
+msgid ""
+"Artet onlus requires at least WordPress version 4.4. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Page Background Color"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Main Text Color"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Secondary Text Color"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "Gray"
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Red"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Yellow"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:92 inc/template-tags.php:101
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:96
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:189
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: %s: The search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search here &hellip;"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: taxonomy-anno_pubblicazione.php:89
+#: template-parts/content-pubblicazioni.php:45
+msgid "Years of publication"
+msgstr ""
+
+#: template-parts/biography.php:30
+msgid "Author:"
+msgstr ""
+
+#. translators: %s: The post author display name.
+#: template-parts/biography.php:38
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: Post editor URL.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page-attivita.php:43
+msgid "RESEARCH PROJECTS"
+msgstr ""
+
+#: template-parts/content-page-attivita.php:59
+msgid "Short name"
+msgstr ""
+
+#: template-parts/content-page-attivita.php:63
+msgid "Start project"
+msgstr ""
+
+#: template-parts/content-page-attivita.php:67
+msgid "Project duration"
+msgstr ""
+
+#: template-parts/content-page-attivita.php:71
+msgid "Status"
+msgstr ""
+
+#: template/template-comitato-scientifico.php:41
+msgid "Scientific Committee"
+msgstr ""
+
+#: template/template-struttura-organizzativa.php:38
+msgid "Board of directors"
+msgstr ""
+
+#: template/template-struttura-organizzativa.php:100
+msgid "Auditor"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Artet onlus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/artetonlus/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Giorgio Maitti - Studio Maitti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.studiomaitti.it/"
+msgstr ""

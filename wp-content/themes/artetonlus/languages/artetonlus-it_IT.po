@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Artet onlus\n"
+"POT-Creation-Date: 2020-07-23 19:06+0200\n"
+"PO-Revision-Date: 2020-07-23 19:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:17
+msgid "That page can&rsquo;t be found."
+msgstr "Pagina non trovata."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Non abbiamo trovato quello che cercavi. Potresti provare ad effettuare una "
+"ricerca."
+
+#: archive-event.php:27
+msgid "Events"
+msgstr "Eventi"
+
+#: archive-event.php:58 archive.php:61 author.php:89 category-news.php:64
+#: home_.php:53 index.php:48 search.php:45
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: archive-event.php:59 archive.php:62 author.php:90 category-news.php:65
+#: home_.php:54 index.php:49 search.php:46
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: archive-event.php:60 archive.php:63 author.php:91 category-news.php:66
+#: home_.php:55 image.php:63 index.php:50 search.php:47
+#: template-parts/content-page-attivita.php:97
+#: template-parts/content-single-event.php:79
+#: template-parts/content-single.php:84
+msgid "Page"
+msgstr "Pagina"
+
+#: archive-pubblicazioni.php:109 taxonomy-anno_pubblicazione.php:30
+#: taxonomy-anno_pubblicazione.php:102 taxonomy-anno_pubblicazione.php:106
+#: template-parts/content-pubblicazioni.php:26
+#: template-parts/content-pubblicazioni.php:59
+#: template-parts/content-pubblicazioni.php:63
+msgid "Publications"
+msgstr "Pubblicazioni"
+
+#: functions.php:101 header.php:189
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#: functions.php:102
+msgid "Secondary Menu"
+msgstr "Menu Secondario"
+
+#: functions.php:103
+msgid "Top Left Small Menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Social Links Menu"
+msgstr "Menu dei link ai social network"
+
+#: functions.php:166
+msgid "Dark Gray"
+msgstr "Grigio scuro"
+
+#: functions.php:171
+msgid "Medium Gray"
+msgstr "Grigio medio"
+
+#: functions.php:176
+msgid "White"
+msgstr "Bianco"
+
+#: functions.php:181
+msgid "Bright Red"
+msgstr ""
+
+#: functions.php:186
+msgid "Orange"
+msgstr "Arancione"
+
+#: functions.php:255
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Aggiungi qui il widget che apparirà nella barra laterale."
+
+#: functions.php:267
+msgid "Registration newsletter"
+msgstr "Iscriviti alla newsletter"
+
+#: functions.php:279
+msgid "Under Category News Posts List"
+msgstr ""
+
+#: functions.php:386
+msgid "expand child menu"
+msgstr "espandi il sottomenu"
+
+#: functions.php:387
+msgid "collapse child menu"
+msgstr "chiudi il sottomenu"
+
+#. translators: Yearly archive title. %s: Year.
+#: functions.php:628
+#, php-format
+msgid "Year: %s"
+msgstr "Anno: %s"
+
+#: functions.php:628
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: Monthly archive title. %s: Month name and year.
+#: functions.php:631
+#, php-format
+msgid "Month: %s"
+msgstr "Mese: %s"
+
+#: functions.php:631
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Daily archive title. %s: Date.
+#: functions.php:634
+#, php-format
+msgid "Day: %s"
+msgstr "Giorno: %s"
+
+#: functions.php:634
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: functions.php:637
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "A parte"
+
+#: functions.php:639
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerie"
+
+#: functions.php:641
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Immagine"
+
+#: functions.php:643
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: functions.php:645
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citazioni"
+
+#: functions.php:647
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Link"
+
+#: functions.php:649
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stati"
+
+#: functions.php:651
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:653
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#. translators: Taxonomy term archive title. 1: Taxonomy singular name, 2: Current taxonomy term.
+#: functions.php:663
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#. translators: %s: Post title.
+#: functions.php:710 image.php:89 template-parts/content-event.php:39
+#: template-parts/content-page-attivita.php:108
+#: template-parts/content-page.php:41 template-parts/content-search.php:28
+#: template-parts/content-search.php:43
+#: template-parts/content-single-event.php:94
+#: template-parts/content-single.php:98 template-parts/content-video.php:32
+#: template-parts/content.php:34 template/template-comitato-scientifico.php:109
+#: template/template-struttura-organizzativa.php:165
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Modifica<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Salta al contenuto"
+
+#: header.php:66
+msgid "Social Menu"
+msgstr "Menu Social"
+
+#: header.php:93
+msgid "Newsletter subscription"
+msgstr "Iscriviti alla newsletter"
+
+#: header.php:97
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:106
+msgid "Support us"
+msgstr "Sostienici"
+
+#: header.php:185
+msgid "Close"
+msgstr "Chiudi"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Immagine precedente"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Immagine successiva"
+
+#: image.php:59 template-parts/content-page-attivita.php:93
+#: template-parts/content-single-event.php:75
+#: template-parts/content-single.php:80
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: image.php:78
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Dimensione originale"
+
+#: image.php:108
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Pubblicato in</span><span class=\"post-title\">"
+"%title</span>"
+
+#: inc/artetonlus-theme-option.php:34 inc/artetonlus-theme-option.php:171
+msgid "Percentuale: Testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:49 inc/artetonlus-theme-option.php:184
+msgid "Percentuale: Testo Mobile"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:63 inc/artetonlus-theme-option.php:198
+msgid "Percentuale 1: numero"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:76 inc/artetonlus-theme-option.php:211
+msgid "Percentuale 1: testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:89 inc/artetonlus-theme-option.php:224
+msgid "Percentuale 2: numero"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:102 inc/artetonlus-theme-option.php:237
+msgid "Percentuale 2: testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:115 inc/artetonlus-theme-option.php:250
+msgid "Percentuale 3: numero"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:128 inc/artetonlus-theme-option.php:263
+msgid "Percentuale 3: testo"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:143 inc/artetonlus-theme-option.php:278
+msgid "Sostienici: Bonifico Bancario"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:156 inc/artetonlus-theme-option.php:291
+msgid "Sostienici: 5x1000"
+msgstr ""
+
+#: inc/artetonlus-theme-option.php:861
+msgid "Settings Saved"
+msgstr "Impostazioni salvate"
+
+#: inc/artetonlus-widget.php:17
+msgid "Latest Post"
+msgstr "Ultimi Post"
+
+#: inc/artetonlus-widget.php:88
+msgid "Title:"
+msgstr "Titolo:"
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:57 inc/back-compat.php:77
+#, php-format
+msgid ""
+"Artet onlus requires at least WordPress version 4.4. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Base Color Scheme"
+msgstr "Schema colore di base"
+
+#: inc/customizer.php:178
+msgid "Page Background Color"
+msgstr "Colore di Sfondo della Pagina"
+
+#: inc/customizer.php:202
+msgid "Link Color"
+msgstr "Colore Link"
+
+#: inc/customizer.php:223
+msgid "Main Text Color"
+msgstr "Colore del testo principale"
+
+#: inc/customizer.php:244
+msgid "Secondary Text Color"
+msgstr "Colore del testo secondario"
+
+#: inc/customizer.php:318
+msgid "Default"
+msgstr "Predefinito"
+
+#: inc/customizer.php:328
+msgid "Dark"
+msgstr "Scuro"
+
+#: inc/customizer.php:338
+msgid "Gray"
+msgstr "Grigio"
+
+#: inc/customizer.php:348
+msgid "Red"
+msgstr "Rosso"
+
+#: inc/customizer.php:358
+msgid "Yellow"
+msgstr "Giallo"
+
+#: inc/template-tags.php:41
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formato"
+
+#: inc/template-tags.php:75
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Pubblicato il"
+
+#: inc/template-tags.php:92 inc/template-tags.php:101
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:96
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categorie"
+
+#: inc/template-tags.php:105
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Etichette"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:189
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continua a leggere<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: The search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cerca:"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search here &hellip;"
+msgstr "Cerca …"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cerca"
+
+#: taxonomy-anno_pubblicazione.php:89
+#: template-parts/content-pubblicazioni.php:45
+msgid "Years of publication"
+msgstr "Anni delle pubblicazioni"
+
+#: template-parts/biography.php:30
+msgid "Author:"
+msgstr "Autore:"
+
+#. translators: %s: The post author display name.
+#: template-parts/biography.php:38
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visualizza tutti i post di %s"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#. translators: %s: Post editor URL.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto a pubblicare il tuo primo post? <a href=\"%1$s\">Inizia qui</a>."
+
+#: template-parts/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ci dispiace, ma non ha trovato i termini di ricerca. Riprova con alcune "
+"parole chiave diverse."
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non possiamo trovare quello che stai cercando. Forse la ricerca "
+"pu&ograve; aiutare."
+
+#: template-parts/content-page-attivita.php:43
+msgid "RESEARCH PROJECTS"
+msgstr "Progetti di ricerca"
+
+#: template-parts/content-page-attivita.php:59
+msgid "Short name"
+msgstr "Nome"
+
+#: template-parts/content-page-attivita.php:63
+msgid "Start project"
+msgstr "Inizio progetto"
+
+#: template-parts/content-page-attivita.php:67
+msgid "Project duration"
+msgstr "Durata progetto"
+
+#: template-parts/content-page-attivita.php:71
+msgid "Status"
+msgstr "Stato"
+
+#: template/template-comitato-scientifico.php:41
+msgid "Scientific Committee"
+msgstr "Comitato Scientifico"
+
+#: template/template-struttura-organizzativa.php:38
+msgid "Board of directors"
+msgstr "Consiglio di amministrazione"
+
+#: template/template-struttura-organizzativa.php:100
+#, fuzzy
+#| msgctxt "post format archive title"
+#| msgid "Audio"
+msgid "Auditor"
+msgstr "Audio"
+
+#. Theme Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Artet onlus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/artetonlus/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Giorgio Maitti - Studio Maitti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.studiomaitti.it/"
+msgstr ""
+
+#~ msgid "Next"
+#~ msgstr "Successivo"
+
+#~ msgid "Next post:"
+#~ msgstr "Post successivo:"
+
+#~ msgid "Previous"
+#~ msgstr "Precedente"
+
+#~ msgid "Previous post:"
+#~ msgstr "Post  precedente:"

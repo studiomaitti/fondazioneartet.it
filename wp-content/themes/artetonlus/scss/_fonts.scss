@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'MyriadPro-Cond';
+    src: url('../fonts/MyriadPro-Cond.eot?#iefix') format('embedded-opentype'), url('../fonts/MyriadPro-Cond.otf') format('opentype'),
+    url('../fonts/MyriadPro-Cond.woff') format('woff'), url('../fonts/MyriadPro-Cond.ttf') format('truetype'), url('../fonts/MyriadPro-Cond.svg#MyriadPro-Cond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyriadPro-BoldCond';
+    src: url('../fonts/MyriadPro-BoldCond.eot?#iefix') format('embedded-opentype'), url('../fonts/MyriadPro-BoldCond.otf') format('opentype'),
+    url('../fonts/MyriadPro-BoldCond.woff') format('woff'), url('../fonts/MyriadPro-BoldCond.ttf') format('truetype'), url('../fonts/MyriadPro-BoldCond.svg#MyriadPro-BoldCond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url('../css/fontawesome/webfonts/fa-solid-900.eot');
+    src: url('../css/fontawesome/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+    url('../css/fontawesome/webfonts/fa-solid-900.woff2') format('woff2'),
+    url('../css/fontawesome/webfonts/fa-solid-900.woff') format('woff'),
+    url('../css/fontawesome/webfonts/fa-solid-900.ttf') format('truetype'),
+    url('../css/fontawesome/webfonts/fa-solid-900.svg#fontawesome') format('svg');
+}

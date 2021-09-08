@@ -1,0 +1,8 @@
+<wpml-config>
+  <admin-texts>
+    <key name="artet_options">
+      <key name="artet_sostienici_bb"/>
+      <key name="artet_sostienici_5x1000"/>
+    </key>
+  </admin-texts>
+</wpml-config>
