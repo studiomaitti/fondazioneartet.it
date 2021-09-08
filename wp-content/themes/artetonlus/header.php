@@ -132,7 +132,7 @@ if(is_front_page() || is_page(5824)){
                 </div>
             </div><!-- .header-link -->
             <div class="logo">
-                <a href="/" title="Home"></a>
+                <a href="https://www.fondazioneartet.it/2021/09/08/roberta-villa-per-fondazione-artet/" title="ROBERTA VILLA PER FONDAZIONE ARTET"></a>
             </div>
         </div>
     </div>
