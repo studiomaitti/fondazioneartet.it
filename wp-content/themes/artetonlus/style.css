@@ -17,14 +17,14 @@ This theme is based on twenty sixteen theme.
 */
 body .img-header {
     background-color: #d5d4cd;
-    background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Mobile.png');
+    background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Mobile.png?i=1');
     min-height: 12em;
     height: 10vh;
 }
 @media screen and (min-width: 768px){
     body .img-header {
         background-color: #d5d4cd;
-        background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Desktop_BG.png');
+        background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Desktop_BG.png?i=1');
         min-height: 22em;
         height: 40vh;
     }
@@ -34,7 +34,7 @@ body .img-header {
         top: 3%;
     }
     body .img-header .logo a {
-        background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Desktop_Content.png');
+        background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Desktop_Content.png?i=1');
         background-size: contain;
     }
 
