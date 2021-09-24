@@ -17,18 +17,19 @@ This theme is based on twenty sixteen theme.
 */
 body .img-header {
     background-color: #d5d4cd;
-    background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Mobile.png?i=1');
+    background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Banner_896x320.png?i=2');
     min-height: 12em;
     height: 10vh;
 }
 @media screen and (min-width: 768px){
     body .img-header {
         background-color: #d5d4cd;
-        background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Header_Desktop_BG.png?i=1');
+        background-image: url('/wp-content/themes/artetonlus/images/header-img/2021-09/ARTET_Banner_1900x678 - adattato.png?i=2');
         min-height: 22em;
         height: 40vh;
     }
     body .img-header .logo {
+        display: none;
         left: 32%;
         height: 94%;
         top: 3%;
